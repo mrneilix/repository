@@ -3,7 +3,7 @@
   "version": "2.2.4",
   "slug": "grafana",
   "description": "The open platform for beautiful analytics and monitoring",
-  "url": "https://github.com/hassio-addons/addon-grafana",
+  "url": "https://github.com/mrneilix/addon-grafana",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:80]/grafana",
   "startup": "services",
   "arch": [
