@@ -3,8 +3,8 @@
   "version": "1.1.0",
   "slug": "phlex",
   "description": "A super-sexy text and voice interface for Plex",
-  "url": "https://github.com/hassio-addons/addon-phlex/tree/master/README.md",
-  "webui": "[PROTO:ssl]://[HOST]:[PORT:1778]",
+  "url": "hhttps://github.com/mrneilix/addon-phlex/",
+  "webui": "[PROTO:ssl]://[HOST]:[PORT:1778]/phlex",
   "startup": "services",
   "arch": [
     "aarch64",
